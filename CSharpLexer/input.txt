@@ -1,0 +1,6 @@
+private const string INPUT = "../../input.txt";
+/*
+	aaaaaaaaaaa a string abs 
+	let i = 9
+	public
+*/

@@ -1,0 +1,16 @@
+C:\Users\Анатолий\RiderProjects\CSharpLexer\CSharpLexer\bin\Debug\net5.0\CSharpLexer.exe
+C:\Users\Анатолий\RiderProjects\CSharpLexer\CSharpLexer\bin\Debug\net5.0\CSharpLexer.deps.json
+C:\Users\Анатолий\RiderProjects\CSharpLexer\CSharpLexer\bin\Debug\net5.0\CSharpLexer.runtimeconfig.json
+C:\Users\Анатолий\RiderProjects\CSharpLexer\CSharpLexer\bin\Debug\net5.0\CSharpLexer.runtimeconfig.dev.json
+C:\Users\Анатолий\RiderProjects\CSharpLexer\CSharpLexer\bin\Debug\net5.0\CSharpLexer.dll
+C:\Users\Анатолий\RiderProjects\CSharpLexer\CSharpLexer\bin\Debug\net5.0\ref\CSharpLexer.dll
+C:\Users\Анатолий\RiderProjects\CSharpLexer\CSharpLexer\bin\Debug\net5.0\CSharpLexer.pdb
+C:\Users\Анатолий\RiderProjects\CSharpLexer\CSharpLexer\obj\Debug\net5.0\CSharpLexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анатолий\RiderProjects\CSharpLexer\CSharpLexer\obj\Debug\net5.0\CSharpLexer.AssemblyInfoInputs.cache
+C:\Users\Анатолий\RiderProjects\CSharpLexer\CSharpLexer\obj\Debug\net5.0\CSharpLexer.AssemblyInfo.cs
+C:\Users\Анатолий\RiderProjects\CSharpLexer\CSharpLexer\obj\Debug\net5.0\CSharpLexer.csproj.CoreCompileInputs.cache
+C:\Users\Анатолий\RiderProjects\CSharpLexer\CSharpLexer\obj\Debug\net5.0\CSharpLexer.dll
+C:\Users\Анатолий\RiderProjects\CSharpLexer\CSharpLexer\obj\Debug\net5.0\ref\CSharpLexer.dll
+C:\Users\Анатолий\RiderProjects\CSharpLexer\CSharpLexer\obj\Debug\net5.0\CSharpLexer.pdb
+C:\Users\Анатолий\RiderProjects\CSharpLexer\CSharpLexer\obj\Debug\net5.0\CSharpLexer.genruntimeconfig.cache
+C:\Users\Анатолий\RiderProjects\CSharpLexer\CSharpLexer\obj\Debug\net5.0\CSharpLexer.csprojAssemblyReference.cache

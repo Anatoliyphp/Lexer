@@ -1,0 +1,7 @@
+ACCESS_LEVEL_PRIVATE 'private' [1,0]
+CONST 'const' [1,8]
+STRING 'string' [1,14]
+ID 'INPUT' [1,21]
+ASSIGNMENT '=' [1,27]
+STRING_CONST '../../input.txt' [1,29]
+SEMICOLON ';' [1,46]
